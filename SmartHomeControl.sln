@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeControl.iOS", "Sma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeControl", "SmartHomeControl\SmartHomeControl\SmartHomeControl.csproj", "{8249B175-99F7-41F7-864E-D7835979B4E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartControl.UWP", "SmartControl.UWP\SmartControl.UWP.csproj", "{66D5B7C5-F4CC-4825-B434-AB904025E7E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartControl.UWP", "SmartHomeControl\SmartHomeControl.UWP\SmartControl.UWP.csproj", "{66D5B7C5-F4CC-4825-B434-AB904025E7E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -130,7 +130,7 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SmartHomeControl\SmartHomeControl\SmartHomeControl.csproj">
+    <ProjectReference Include="..\SmartHomeControl\SmartHomeControl.csproj">
       <Project>{8249b175-99f7-41f7-864e-d7835979b4e0}</Project>
       <Name>SmartHomeControl</Name>
     </ProjectReference>
